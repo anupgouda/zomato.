@@ -1,6 +1,6 @@
 // Dummy data for restaurant listings
 const restaurants = [
-    { name: 'Restaurant 1', cuisine: 'Italian' },
+    { name: 'Restaurant 1', cuisine: 'Italian',image :'https://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/1/25/0/FN_getty-italian-traditions-pasta_s4x3.jpg.rend.hgtvcom.1280.960.suffix/1453776834832.jpeg' },
     { name: 'Restaurant 2', cuisine: 'Mexican' },
     { name: 'Restaurant 3', cuisine: 'Indian' }
 ];
